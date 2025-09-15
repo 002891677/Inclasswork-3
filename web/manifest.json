@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "inclasswork3",
     "short_name": "inclasswork3",
+=======
+    "name": "digital_pet_app",
+    "short_name": "digital_pet_app",
+>>>>>>> dfa64a4 (Initial commit for digital pet app)
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

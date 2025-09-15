@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="inclasswork3"
+=======
+        android:label="digital_pet_app"
+>>>>>>> dfa64a4 (Initial commit for digital pet app)
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
